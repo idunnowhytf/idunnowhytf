@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=idunnowhytf&label=Profile%20views&color=0e75b6&style=flat" alt="idunnowhytf" /> </p>
 
-- 🔭 I’m currently working on [Bingely](https://usebingely.vercel.app)
+- 🔭 I’m currently working on [Bingely](https://usebingely.vercel.app) and [Waves Converter](https://idunnowhytf.github.io/WavesConverter)
 
 - 🌱 I’m currently learning **Python, React, NextJS**
 
